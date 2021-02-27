@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently focusing **CSS, JavaScript, WebGL**
 
-- 💬 Ask me about **CSS, JavaScript, Vue, gsap, anime.js**
-
 - 📫 How to reach me **sd.bora.acici@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
