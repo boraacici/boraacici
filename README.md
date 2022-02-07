@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bora</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
-- 🔭 I’m currently working on [DECOL](https://www.decol.tv/)
+- 🔭 I’m currently working on [Layermark](https://www.layermark.com/)
 
 - 🌱 I’m currently focusing **CSS, JavaScript, WebGL**
 
